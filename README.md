@@ -1,5 +1,5 @@
-<a href="https://app.daily.dev/Shafi_Codes"><img src="https://api.daily.dev/devcards/c94d4a0d7a8b4a939cbeb4da7339a17d.png?r=ca5" width="400" alt="Abdullah Shafi's Dev Card"/></a>
 
+<a href="https://app.daily.dev/Shafi_Codes"><img src="https://api.daily.dev/devcards/c94d4a0d7a8b4a939cbeb4da7339a17d.png?r=lct" width="400" alt="Abdullah Shafi's Dev Card"/></a>
 
 - 👋 Hi, I’m Andullah Al Shafi
 - 👀 I’m interested in Web Development
