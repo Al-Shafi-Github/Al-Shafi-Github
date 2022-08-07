@@ -2,8 +2,8 @@
 <a href="https://app.daily.dev/Shafi_Codes"><img src="https://api.daily.dev/devcards/c94d4a0d7a8b4a939cbeb4da7339a17d.png?r=c8a" width="400" alt="Abdullah Shafi's Dev Card"/></a>
 
 - 👋 Hi, I’m Andullah Al Shafi
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Javascript.
+- 👀 I’m interested in Web Development, ML, Andriod, CNN, NLP
+- 🌱 I’m currently learning ML.
 - 💞️ I’m looking to collaborate on projects.
 - 📫 How to reach me:
  Twitter: @Abdullah_Shafi7
