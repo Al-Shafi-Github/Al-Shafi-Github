@@ -4,7 +4,6 @@
 <h1 align="center">Hi 👋, I'm Abdullah Al Shafi</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh.Currently I am persuing my undergrad degree in Computer Science & Engineering from North South University -Bangladesh (NSU). I’m interested in Web Development, ML, Andriod, CNN, NLP</h3>
 
-- 📫 How to reach me- **abdullah.shafi1@northsouth.edu**
 
 - 🔭 I’m currently working on **a NSU Job Portal Website**
 
@@ -15,6 +14,10 @@
 - 🤝 I’m looking for help with **publishing research paper**
 
 - ⚡ Fun fact **I am concerned about what my last meal on Earth would be 🙂**
+
+- 📫 How to reach me- **abdullah.shafi1@northsouth.edu**
+
+<p align="left"> <a href="https://twitter.com/abdullah_shafi7" target="blank"><img src="https://img.shields.io/twitter/follow/abdullah_shafi7?logo=twitter&style=for-the-badge" alt="abdullah_shafi7" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
