@@ -2,8 +2,9 @@
 
 
 <h1 align="center">Hi 👋, I'm Abdullah Al Shafi</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh. I’m interested in Web Development, ML, Andriod, CNN, NLP</h3>
+<h3 align="center">A passionate frontend developer from Bangladesh.Currently I am persuing my undergrad degree in Computer Science & Engineering from North South University -Bangladesh (NSU). I’m interested in Web Development, ML, Andriod, CNN, NLP</h3>
 
+- 📫 How to reach me- **abdullah.shafi1@northsouth.edu**
 
 - 🔭 I’m currently working on **a NSU Job Portal Website**
 
