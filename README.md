@@ -55,11 +55,11 @@
 
 
 <p>
-   <table>
+ 
+   <h3 align="left">✍️ Random Dev Quote :</h3>
 
-   <th>✍️ Random Dev Quote</th>
-       <img alt="Devorein :: Random Dev Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"> 
+   <img alt="Devorein :: Random Dev Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"> 
        
      
-   </table>
+  
 </p>
