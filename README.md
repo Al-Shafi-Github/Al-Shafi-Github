@@ -58,7 +58,7 @@
    <table>
 <tr>
    <th>✍️ Random Dev Quote</th>
-       <td><img alt="Devorein :: Random Dev Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"> </td>
+       <img alt="Devorein :: Random Dev Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"> 
        
      </tr>
    </table>
