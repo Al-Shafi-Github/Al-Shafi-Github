@@ -53,8 +53,6 @@
    </table>
 </p>
 ### ✍️ Random Dev Quote
- <tr>
- <td><img> src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"> </td>
-</tr>
+![✍️ Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 ---
 [![](https://visitcount.itsvg.in/api?id=Shafi315&icon=0&color=0)](https://visitcount.itsvg.in)
