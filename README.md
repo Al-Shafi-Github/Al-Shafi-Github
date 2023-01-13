@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **a NSU Job Portal Website**
 
-- 🌱 I’m currently learning **Laravel**
+- 🌱 I’m currently learning **Neural Network and NLP**
 
 - 👯 I’m looking to collaborate on **ML based project**
 
