@@ -55,7 +55,7 @@
 
 <p>
 <h3 align="left">Streak & Total Contribution :</h3>
-<img alt="Devorein :: Streak & Total Contribution" src="https://github-readme-streak-stats.herokuapp.com/?user=Shafi315&theme=dark&hide_border=false"> 
+<img alt="Devorein :: Streak & Total Contribution" src="https://github-readme-streak-stats.herokuapp.com/?user=Al-Shafi-Github&theme=dark&hide_border=false"> 
 
 </p>
 
