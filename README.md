@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **publishing research paper**
 
-- ⚡ Fun fact **I am concerned about what my last meal on Earth would be 🙂**
+- ⚡ Fun fact **I am concerned about who will be the last person to talk with me 🙂**
 
 - 📫 How to reach me- **abdullah.shafi1@northsouth.edu**
 
