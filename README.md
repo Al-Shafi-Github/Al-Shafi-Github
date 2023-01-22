@@ -20,11 +20,7 @@
 <p align="left"> <a href="https://twitter.com/Abdullah_Shafi7" target="blank"><img src="https://img.shields.io/twitter/follow/abdullah_shafi7?logo=twitter&style=for-the-badge" alt="abdullah_shafi7"/ ></a> </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=al-shafi-github&label=Profile%20views&color=0e75b6&style=flat" alt="al-shafi-github" /> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=al-shafi-github&show_icons=true&locale=en&layout=compact" alt="al-shafi-github" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=al-shafi-github&show_icons=true&locale=en" alt="al-shafi-github" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=al-shafi-github&" alt="al-shafi-github" /></p>
 
 
 <h3 align="left">Connect with me:</h3>
