@@ -17,8 +17,12 @@
 
 - 📫 How to reach me- **abdullah.shafi1@northsouth.edu**
 
-<p align="left"> <a href="https://twitter.com/abdullah_shafi7" target="blank"><img src="https://img.shields.io/twitter/follow/abdullah_shafi7?logo=twitter&style=for-the-badge" alt="abdullah_shafi7"></a> </p>
+<p align="left"> <a href="https://twitter.com/abdullah_shafi7" target="blank"><img src="https://img.shields.io/twitter/follow/abdullah_shafi7?logo=twitter&style=for-the-badge" alt="abdullah_shafi7"/ ></a> </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=al-shafi-github&label=Profile%20views&color=0e75b6&style=flat" alt="al-shafi-github" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=al-shafi-github" alt="al-shafi-github" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/dev-shafi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="dev-shafi" height="30" width="40" /></a>
