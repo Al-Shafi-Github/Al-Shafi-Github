@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Abdullah Al Shafi</h1>
-<h3 align="center">A passionate front-end developer from Bangladesh. Currently, I am pursuing my undergrad degree in Computer Science & Engineering from North South University -Bangladesh (NSU). I’m interested in Machine Learning, Neural Netwrok, and NLP</h3>
+<h3 align="center">A passionate Web developer from Bangladesh. Currently, Graduated from North South University -Bangladesh (NSU). I’m interested in Web Development, Machine Learning, Neural Netwrok, and NLP</h3>
 
 
 - 🔭 I’m currently working on **A Deep Learning Research Project**
