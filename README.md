@@ -2,14 +2,14 @@
 
 
 <h1 align="center">Hi 👋, I'm Abdullah Al Shafi</h1>
-<h3 align="center">A passionate Web developer from Bangladesh. Currently, Graduated from North South University -Bangladesh (NSU). I’m interested in Web Development, Machine Learning, Neural Netwrok, and NLP</h3>
+<h3 align="center">A passionate Web developer from Bangladesh. Graduated from North South University -Bangladesh . Looking for internship as a Full-Stack Developer. Subsequently working on Machine Learning, Neural Netwrok, and NLP projects</h3>
 
 
 - 🔭 I’m currently working on **A Deep Learning Research Project**
 
-- 🌱 I’m currently learning **Neural Network and NLP**
+- 🌱 I’m currently learning **Computer Vision and NLP**
 
-- 👯 I’m looking to collaborate on **ML based project**
+- 👯 I’m looking to collaborate on **Computer Vision based project**
 
 - 🤝 I’m looking for help with **publishing research paper**
 
