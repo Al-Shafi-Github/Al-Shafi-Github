@@ -5,13 +5,13 @@
 <h3 align="center">A passionate Web developer from Bangladesh. Graduated from North South University -Bangladesh . Looking for internship as a Full-Stack Developer. Throughout my four years of academic journey, I’ve become skilled in various programming languages, including C, C++, Java, PHP, Python, and JavaScript. I love to code on Python. Subsequently working on Machine Learning, Neural Netwrok, and NLP projects</h3>
 
 
-- 🔭 I’m currently working on **A Deep Learning Research Project**
+- 🔭 I’m currently working on **Laravel Projects**
 
-- 🌱 I’m currently learning **Computer Vision and NLP**
+- 🌱 I’m currently learning **React Js**
 
-- 👯 I’m looking to collaborate on **Computer Vision based project**
+- 👯 I’m looking to collaborate on **Full Stack Web Development Projects**
 
-- 🤝 I’m looking for help with **publishing research paper**
+- 🤝 I’m looking for help with **Publishing research paper**
 
 - ⚡ Fun fact **I am concerned about who will be the last person to talk with me 🙂**
 
