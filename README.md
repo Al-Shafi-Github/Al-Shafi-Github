@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Abdullah Al Shafi</h1>
-<h3 align="center">A passionate Web developer from Bangladesh. Graduated from North South University -Bangladesh . Looking for internship as a Full-Stack Developer. Subsequently working on Machine Learning, Neural Netwrok, and NLP projects</h3>
+<h3 align="center">A passionate Web developer from Bangladesh. Graduated from North South University -Bangladesh . Looking for internship as a Full-Stack Developer. Subsequently working on Machine Learning, Neural Netwrok, and NLP projects. Throughout my four years of academic journey, I’ve become skilled in various programming languages, including C, C++, Java, PHP, Python, and JavaScript. I love to code on Python</h3>
 
 
 - 🔭 I’m currently working on **A Deep Learning Research Project**
