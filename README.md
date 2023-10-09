@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Abdullah Al Shafi</h1>
-<h3 align="center">A passionate Web developer from Bangladesh. Graduated from North South University -Bangladesh . Looking for internship as a Full-Stack Developer. Throughout my four years of academic journey, I’ve become skilled in various programming languages, including C, C++, Java, PHP, Python, and JavaScript. I love to code on Python. Subsequently working on Machine Learning, Neural Netwrok, and NLP projects</h3>
+<h3 align="center">A passionate Web developer from Bangladesh. Graduated from North South University -Bangladesh . Working as a Full-Stack Developer at Golden Harvest Info Tech. Throughout my four years of academic journey, I’ve become skilled in various programming languages, including C, C++, Java, PHP, Python, and JavaScript. I love to code on Python. Subsequently working on Machine Learning, Neural Netwrok, and NLP projects</h3>
 
 
 - 🔭 I’m currently working on **Laravel Projects**
@@ -15,7 +15,7 @@
 
 - ⚡ Fun fact **I am concerned about who will be the last person to talk with me 🙂**
 
-- 📫 How to reach me- **abdullah.shafi1@northsouth.edu**
+- 📫 How to reach me- **abdullah.shafi191@gmail.com**
 
 <p align="left"> <a href="https://twitter.com/Abdullah_Shafi7" target="blank"><img src="https://img.shields.io/twitter/follow/abdullah_shafi7?logo=twitter&style=for-the-badge" alt="abdullah_shafi7"/ ></a> </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=al-shafi-github&label=Profile%20views&color=0e75b6&style=flat" alt="al-shafi-github" /> </p>
