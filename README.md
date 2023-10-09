@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Laravel Projects**
 
-- 🌱 I’m currently learning **React Js**
+- 🌱 I’m currently learning **Vue Js**
 
 - 👯 I’m looking to collaborate on **Full Stack Web Development Projects**
 
