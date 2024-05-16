@@ -2,16 +2,16 @@
 
 
 <h1 align="center">Hi 👋, I'm Abdullah Al Shafi</h1>
-<h3 align="center">A passionate Web developer from Bangladesh. Graduated from North South University -Bangladesh . Working as a Full-Stack Developer at Golden Harvest Info Tech. Throughout my four years of academic journey, I’ve become skilled in various programming languages, including C, C++, Java, PHP, Python, and JavaScript. I love to code on Python. Subsequently working on Machine Learning, Neural Netwrok, and NLP projects</h3>
+<h3 align="center">A passionate software engineer from Bangladesh. Graduated from North South University -Bangladesh. I worked as a full-stack developer at Golden Harvest Info Tech. Currently Working as a lab instructor at Independent University Bangladesh (IUB), also a researcher of RioT Lab, IUB.  Throughout my four years of academic journey, I’ve become skilled in various programming languages, including C, C++, Java, PHP, and Python.  I love to code in Python. Subsequently, working on Machine Learning, Neural Network, and NLP projects</h3>
 
 
-- 🔭 I’m currently working on **Laravel Projects**
+- 🔭 I’m currently working on **Medical Imaging**
 
-- 🌱 I’m currently learning **Vue Js**
+- 🌱 I’m currently learning **LLM**
 
-- 👯 I’m looking to collaborate on **Full Stack Web Development Projects**
+- 👯 I’m looking to collaborate on **ML Engineering Projects**
 
-- 🤝 I’m looking for help with **Publishing research paper**
+- 🤝 I’m looking for collaboration to **Publish research paper**
 
 - ⚡ Fun fact **I am concerned about who will be the last person to talk with me 🙂**
 
