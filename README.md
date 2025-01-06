@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Medical Imaging**
 
-- 🌱 I’m currently learning **LLM**
+- 🌱 I’m currently learning **AgentiC AI**
 
 - 👯 I’m looking to collaborate on **ML Engineering Projects**
 
