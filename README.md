@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **ML Engineering Projects**
 
-- 🤝 I’m looking for collaboration to **Publish research paper**
+- 🤝 I’m looking for collaboration to **Innovative and Quality Research**
 
 - ⚡ Fun fact **I am concerned about who will be the last person to talk with me 🙂**
 
