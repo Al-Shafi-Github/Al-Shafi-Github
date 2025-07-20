@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Abdullah Al Shafi</h1>
-<h3 align="center">A passionate software engineer from Bangladesh. Graduated from North South University -Bangladesh. I worked as a full-stack developer at Golden Harvest Info Tech. I also worked as a lab instructor at the Independent University Bangladesh (IUB) and graduate researcher at RioT Lab, IUB. Currently working at Samsung R&D Institute Bangladesh. Throughout my four years of academic journey, I’ve become skilled in various programming languages, including C, C++, Java, PHP, and Python.  I love to code in Python. Subsequently, working on Machine Learning, Neural Networks, and NLP projects</h3>
+<h3 align="center">A passionate software engineer from Bangladesh. Currently working at Samsung R&D Institute Bangladesh. I  worked as a lab instructor at the Independent University Bangladesh (IUB) and graduate researcher at RioT Lab, IUB. I also worked as a intern full-stack developer at Golden Harvest Info Tech. Throughout my four years of academic journey, I’ve become skilled in various programming languages, including C, C++, Java, PHP, and Python.  I love to code in Python. </h3>
 
 
 - 🔭 I’m currently working on **CD and SCM Management**
