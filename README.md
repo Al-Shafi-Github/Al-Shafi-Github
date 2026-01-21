@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for collaboration to **Innovative and Quality Research**
 
-- ⚡ Fun fact **I am concerned about who will be the last person to talk with me 🙂**
+- ⚡ Fun fact **I am concerned about what will be my last project before I die 🙂**
 
 - 📫 How to reach me- **abdullah.shafi191@gmail.com**
 
